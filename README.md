@@ -45,3 +45,7 @@ For Python
 ```Python
 print ("Hello")
 ```
+
+For more info, visit [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) website.
+
+![my image](./images/image_bird.jpeg)
