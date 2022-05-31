@@ -62,5 +62,5 @@ For more info, visit [GitHub Docs](https://docs.github.com/en/get-started/writin
 ## Supported OS
 
 - [x] Windows
-- [X]Linux
+- [X] Linux
 - [x] IOS
